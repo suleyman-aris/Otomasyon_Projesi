@@ -1,0 +1,11 @@
+Jambon,80,Kilo,100
+Sucuk,90,Kangal,20
+Salam,12,Adet,35
+Zeytin,15,Kilo,60
+Tereyağı,45,Kilo,100
+Kavurma,60,Kilo,197
+Ayran,5,Litre,150
+Bal,20,Kavanoz,60
+Marmelat,50,Kilo,60
+Tahin,60,Kilo,100
+Pekmez,50,Kilo,160

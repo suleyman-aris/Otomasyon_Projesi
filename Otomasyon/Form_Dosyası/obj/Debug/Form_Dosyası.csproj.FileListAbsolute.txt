@@ -1,0 +1,10 @@
+C:\Users\suley\Desktop\Güneş Meral\Form_Dosyası\Form_Dosyası\bin\Debug\Form_Dosyası.exe.config
+C:\Users\suley\Desktop\Güneş Meral\Form_Dosyası\Form_Dosyası\bin\Debug\Form_Dosyası.exe
+C:\Users\suley\Desktop\Güneş Meral\Form_Dosyası\Form_Dosyası\bin\Debug\Form_Dosyası.pdb
+C:\Users\suley\Desktop\Güneş Meral\Form_Dosyası\Form_Dosyası\obj\Debug\Form_Dosyası.csprojAssemblyReference.cache
+C:\Users\suley\Desktop\Güneş Meral\Form_Dosyası\Form_Dosyası\obj\Debug\Form_Dosyası.Form1.resources
+C:\Users\suley\Desktop\Güneş Meral\Form_Dosyası\Form_Dosyası\obj\Debug\Form_Dosyası.Properties.Resources.resources
+C:\Users\suley\Desktop\Güneş Meral\Form_Dosyası\Form_Dosyası\obj\Debug\Form_Dosyası.csproj.GenerateResource.cache
+C:\Users\suley\Desktop\Güneş Meral\Form_Dosyası\Form_Dosyası\obj\Debug\Form_Dosyası.csproj.CoreCompileInputs.cache
+C:\Users\suley\Desktop\Güneş Meral\Form_Dosyası\Form_Dosyası\obj\Debug\Form_Dosyası.exe
+C:\Users\suley\Desktop\Güneş Meral\Form_Dosyası\Form_Dosyası\obj\Debug\Form_Dosyası.pdb
